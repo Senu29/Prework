@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 Mixed up View_Controller and Main.StoryBoard windows.
 The numberPad/ decimalPad did not pop up, due to a Xcode bug.
 Initailly it was hard to get around with the multiple windows, but after few hours into Xcode, I got more comfortable with the UI.
-Was unable to get my finished work uploaded in to gitHub through the Xcode Source Control, which delayed my Pre-work from its submission by 3 days, since I had to learn a way to use Terminal to commit my work o to gitHub.
+Was unable to get my finished work uploaded in to gitHub through the Xcode Source Control, which delayed my Pre-work from its submission by 3 days, since I had to learn a way to use Terminal to commit my work on to gitHub.
 
 ## License
 
