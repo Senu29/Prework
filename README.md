@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/m1aloxp.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -55,3 +56,4 @@ Was unable to get my finished work uploaded in to gitHub through the Xcode Sourc
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
